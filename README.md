@@ -1,7 +1,7 @@
 ## **Portfolio ADA ITW**
 ### Alumna: Fatima Gutierrez.
 
-A continuación se presenta mi Portfolio, proyecto hecto para el primero modulo de la carrera Frontend en ADA ITW.
+A continuación se presenta mi Portfolio, proyecto hecto para el primer modulo de la carrera Frontend en ADA ITW.
 
 **CONTENIDO DEL PORTFOLIO**
 
